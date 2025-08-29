@@ -88,11 +88,3 @@ The pipeline is designed in **seven key stages**:
 - `conceputal diagram.jpg` → Visual pipeline design  
 
 ---
-
-## 🚀 Next Steps  
-
-- Extend the conceptual design with **technology-specific choices** (e.g., Kafka, Spark, Snowflake).  
-- Prototype ingestion and transformation on a sample dataset.  
-- Deploy a minimal version of the pipeline for testing.  
-
----
