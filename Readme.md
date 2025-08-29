@@ -1,7 +1,7 @@
 📘 Data Pipeline Design for Beejan Technologies
 📖 Project Overview
 Beejan Technologies receives thousands of daily customer complaints through different channels such as social media, call centers, SMS, and website forms. Currently, the data is stored in multiple formats, reports are manually compiled, and teams work in silos, leading to delays and inefficiencies.
-This project provides a conceptual design of an end-to-end data pipeline. The pipeline is focused on unifying, cleaning, enriching, and organizing customer complaint data to make it ready for analysis, reporting, 43and decision-making.
+This project provides a conceptual design of an end-to-end data pipeline. The pipeline is focused on unifying, cleaning, enriching, and organizing customer complaint data to make it ready for analysis, reporting, and decision-making.
 🛠️ Conceptual Pipeline Design
 The pipeline has seven main steps:
 1.	Source Identification
